@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウザ可愛くて何が悪い！",
+  "base_artist": "赤見かるび",
+  "createdAt": "2026-02-25T18:06:25.944676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウザ可愛くて何が悪い!",
+      "artist": "赤見かるび",
+      "has_synced": false,
+      "path": "select/pl_01_ウザ可愛くて何が悪い!_赤見かるび.txt"
+    }
+  ]
+}
